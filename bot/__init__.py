@@ -269,7 +269,7 @@ RCLONE_TFSIMULATION = int(environ.get('RCLONE_TFSIMULATION', '8'))
             
 # ============================== LOGS ==================================
 ONCOMPLETE_LEECH_LOG = environ.get('ONCOMPLETE_LEECH_LOG', 'True').lower() == 'true'
-LEECH_LOG = environ.get('LEECH_LOG', '-1001963446260')
+LEECH_LOG = environ.get('LEECH_LOG', '-1001782322640')
 if LEECH_LOG:
     if LEECH_LOG.isdigit() or LEECH_LOG.startswith('-'):
         LEECH_LOG = int(LEECH_LOG)
@@ -282,7 +282,7 @@ MIRROR_LOG = int(MIRROR_LOG) if MIRROR_LOG.isdigit() or MIRROR_LOG.startswith('-
 OTHER_LOG = environ.get('OTHER_LOG', '-1001963446260')
 OTHER_LOG = int(OTHER_LOG) if OTHER_LOG.isdigit() or OTHER_LOG.startswith('-') else OTHER_LOG
 
-LINK_LOG = environ.get('LINK_LOG', '-1001963446260')
+LINK_LOG = environ.get('LINK_LOG', '-1001619772454')
 LINK_LOG = int(LINK_LOG) if LINK_LOG.isdigit() or LINK_LOG.startswith('-') else LINK_LOG
 # ======================================================================
 
@@ -453,10 +453,10 @@ UPDATE_EVERYTHING = environ.get('UPDATE_EVERYTHING', 'False').lower() == 'true'
 
 
 # ============================== UI ====================================
-AUTHOR_NAME = environ.get('AUTHOR_NAME', 'Maheshsirop')
-AUTHOR_URL = environ.get('AUTHOR_URL', 'https://t.me/maheshsirop')
+AUTHOR_NAME = environ.get('AUTHOR_NAME', 'HARI')
+AUTHOR_URL = environ.get('AUTHOR_URL', 'https://t.me/hari_813')
 DRIVE_SEARCH_TITLE = environ.get('DRIVE_SEARCH_TITLE', 'Drive Search')
-GD_INFO = environ.get('GD_INFO', 'By @maheshsirop')
+GD_INFO = environ.get('GD_INFO', 'By @hari_813')
 PROG_FINISH = environ.get('PROG_FINISH', '⬤')
 PROG_UNFINISH = environ.get('PROG_UNFINISH', '○')
 SOURCE_LINK_TITLE = environ.get('SOURCE_LINK_TITLE', 'Source Link')
