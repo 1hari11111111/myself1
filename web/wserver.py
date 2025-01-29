@@ -24,7 +24,7 @@ page = """
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Torrent File Selector</title>
-    <link rel="icon" href="https://graph.org/file/1a6ad157f55bc42b548df.png" type="image/jpg">
+    <link rel="icon" href="https://telegra.ph/file/0151dc084b62cb01b209d.jpg" type="image/jpg">
     <script
       src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
       integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs="
@@ -221,20 +221,20 @@ function s_validate() {
 </script>
 </head>
 <body>
-  <!--© Designed and coded by @maheshsirop-Telegram-->
+  <!--© Designed and coded by @hari_813-Telegram-->
     <header>
       <div class="brand">
         <img
-          src="https://graph.org/file/1a6ad157f55bc42b548df.png"
+          src=https://telegra.ph/file/0151dc084b62cb01b209d.jpg"
           alt="logo"
         />
-        <a href="https://t.me/maheshsirop">
+        <a href="https://t.me/hari_813">
           <h2 class="name">Bittorrent Selection</h2>
         </a>
       </div>
       <div class="social">
-        <a href="https://www.instagram.com/mahesh_namikaze?igsh=NTh0dWprZjExeW81"><i class="fab fa-instagram"></i></a>
-        <a href="https://t.me/Maheshsirop"><i class="fab fa-telegram"></i></a>
+        <a href="https://t.me/mtpmasala"><i class="fab fa-CHANNEL"></i></a>
+        <a href="https://t.me/hari_813"><i class="fab fa-telegram"></i></a>
       </div>
     </header>
     <div id="sticks">
@@ -421,7 +421,7 @@ code_page = """
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Torrent Code Checker</title>
-    <link rel="icon" href="https://graph.org/file/1a6ad157f55bc42b548df.png" type="image/jpg">
+    <link rel="icon" href="https://telegra.ph/file/0151dc084b62cb01b209d.jpg" type="image/jpg">
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -613,20 +613,20 @@ section span{
     </style>
   </head>
 <body>
-   <!--© Designed and coded by @maheshsirop-Telegram-->
+   <!--© Designed and coded by @hari_813-Telegram-->
     <header>
       <div class="brand">
         <img
-          src="https://graph.org/file/1a6ad157f55bc42b548df.png"
+          src="https://telegra.ph/file/0151dc084b62cb01b209d.jpg"
           alt="logo"
         />
-        <a href="https://t.me/hexafreinds">
+        <a href="https://t.me/mtpmasala">
           <h2 class="name">Bittorrent Selection</h2>
         </a>
       </div>
       <div class="social">
-        <a href="https://www.instagram.com/mahesh_namikaze?igsh=NTh0dWprZjExeW81"><i class="fab fa-instagram"></i></a>
-        <a href="https://t.me/hexafreinds"><i class="fab fa-telegram"></i></a>
+        <a href="https://t.me/hari_813"><i class="fab fa-CHANNEL"></i></a>
+        <a href="https://t.me/hari_813"><i class="fab fa-telegram"></i></a>
       </div>
     </header>
     <section>
@@ -834,8 +834,8 @@ def homepage():
         <h1>HF</h1>
     </div>
     <div class="content">
-        <img src="https://graph.org/file/639fe4239b78e5862b302.jpg" class="image">
-        <a href="https://telegram.me/hexafreinds" style="text-decoration: none;">
+        <img src="https://telegra.ph/file/0151dc084b62cb01b209d.jpg" class="image">
+        <a href="https://telegram.me/mtpmasala" style="text-decoration: none;">
             <button class="button">Join Updates</button>
         </a>
     </div>
