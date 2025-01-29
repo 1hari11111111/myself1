@@ -9,8 +9,8 @@ class UsetString:
     CAP = f'''
 <b>CUSTOM CAPTION SETTING</b>\n
 Set custom caption with <b>HTML</b> style
-Example: <code>{escape("<b>By:</b> <a href='https://t.me/hexafreinds'>HF</a>")}</code>
-Result: <b>By:</b> <a href='https://t.me/hexafreinds'>HF</a>\n
+Example: <code>{escape("<b>By:</b> <a href='https://t.me/mtpmasala'>HF</a>")}</code>
+Result: <b>By:</b> <a href='https://t.me/mtpmasala'>HF</a>\n
 <i>*Be careful when you use html tag for caption\n
 Timeout: 60s.</i>
 '''
