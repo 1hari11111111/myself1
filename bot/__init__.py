@@ -374,7 +374,7 @@ STICKER_DELETE_DURATION = int(environ.get('STICKER_DELETE_DURATION', 120))
 images = 'https://graph.org/file/79d62e05db6894c34f0df-c54d163cde4785ca28.jpg https://graph.org/file/16464195c37e1255985d5-a380149a9cf3a9c661.jpg https://graph.org/file/c831753c2850d6d0809e5-521f7b72e9c08672f9.jpg \
           https://graph.org/file/4d60d42b9dac0896abea8-7a4ccf2a93912bf049.jpg https://graph.org/file/30686e1ae6cef2fa823c1-bc4a51ea5e2ce1782c.jpg https://graph.org/file/f123aaa392a8fe38d0b52-b602d462af2a664099.jpg \
           https://graph.org/file/bd39056e99c5d8e781883-870eed8cc4f0104788.jpg https://graph.org/file/9da9ad2e1fe22049d4118-ce8e6720aa35c3de67.jpg https://graph.org/file/44353a4dcb7b88cec6434-4701e8b86e5aeec010.jpg'
-ENABLE_IMAGE_MODE = environ.get('ENABLE_IMAGE_MODE', 'True').lower() == 'true'
+ENABLE_IMAGE_MODE = environ.get('ENABLE_IMAGE_MODE', 'False').lower() == 'false'
 IMAGE_ARIA = environ.get('IMAGE_ARIA', 'https://graph.org/file/b955fe4acb20149ba4868-309fb913aa926b75dd.jpg')
 IMAGE_AUTH = environ.get('IMAGE_AUTH', 'https://graph.org/file/0cf8c787d792a6f04791b-ac5532767649d372c1.jpg')
 IMAGE_BOLD = environ.get('IMAGE_BOLD', 'https://graph.org/file/e0c29cf9bbf7dfd5d852e-82b1e7ff72aaf399e6.jpg')
