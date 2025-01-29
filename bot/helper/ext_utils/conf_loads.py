@@ -33,11 +33,11 @@ default_values = {'AUTO_DELETE_MESSAGE_DURATION': 30,
                   'CLOUD_LINK_FILTERS': '',
                   'UPSTREAM_BRANCH': 'main',
                   'FSUB_BUTTON_NAME': 'Join Group',
-                  'CHANNEL_USERNAME': 'hexafreinds',
-                  'AUTHOR_NAME': 'MAHESH',
-                  'AUTHOR_URL': 'https://t.me/maheshsirop',
+                  'CHANNEL_USERNAME': 'mtpmasala',
+                  'AUTHOR_NAME': 'HARI',
+                  'AUTHOR_URL': 'https://t.me/hari_813',
                   'DRIVE_SEARCH_TITLE': 'Drive Search',
-                  'GD_INFO': 'By @maheshsirop',
+                  'GD_INFO': 'By @hari_813',
                   'RCLONE_TFSIMULATION': 4,
                   'SESSION_TIMEOUT': 0,
                   'PROG_FINISH': '⬢',
@@ -49,7 +49,7 @@ default_values = {'AUTO_DELETE_MESSAGE_DURATION': 30,
                   'DAILY_LIMIT_SIZE': 50,
                   'TSEARCH_TITLE': 'Torrent Search',
                   'DISABLE_VIDTOOLS': 'Nope',
-                  'COMPRESS_BANNER': 'Re-Encoded by @maheshsirop',
+                  'COMPRESS_BANNER': 'Re-Encoded by @hari_813',
                   'LIB264_PRESET': 'superfast',
                   'LIB265_PRESET': 'faster',
                   'HARDSUB_FONT_NAME': 'Simple Day Mistu',
@@ -331,7 +331,7 @@ async def load_config():
     # ======================================================================
 
     # ============================= IMAGES =================================
-    ENABLE_IMAGE_MODE = environ.get('ENABLE_IMAGE_MODE', 'True').lower() == 'true'
+    ENABLE_IMAGE_MODE = environ.get('ENABLE_IMAGE_MODE', 'False').lower() == 'false'
     IMAGE_ARIA = environ.get('IMAGE_ARIA', 'https://graph.org/file/24e3bbaa805d49823eddd.png')
     IMAGE_AUTH = environ.get('IMAGE_AUTH', 'https://graph.org/file/e6bfb75ad099e7d3664e0.png')
     IMAGE_BOLD = environ.get('IMAGE_BOLD', 'https://graph.org/file/d81b39cf4bf75b15c536b.png')
@@ -407,8 +407,8 @@ async def load_config():
     # ======================================================================
 
     # ============================== UI ====================================
-    AUTHOR_NAME = environ.get('AUTHOR_NAME', 'Anonim')
-    AUTHOR_URL = environ.get('AUTHOR_URL', 'https://t.me/TrollUser')
+    AUTHOR_NAME = environ.get('AUTHOR_NAME', 'HARI')
+    AUTHOR_URL = environ.get('AUTHOR_URL', 'https://t.me/hari_813')
     DRIVE_SEARCH_TITLE = environ.get('DRIVE_SEARCH_TITLE', 'Drive Search')
     GD_INFO = environ.get('GD_INFO', 'Uploaded by Telegram Mirror Bot')
     PROG_FINISH = environ.get('PROG_FINISH', '⬢')
