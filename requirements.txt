@@ -1,4 +1,4 @@
-pycrypto
+
 pytz
 mimetype
 typing
