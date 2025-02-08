@@ -6,7 +6,6 @@ natsort
 gTTS
 waybackpy
 heroku3
-pycrypto
 aiofiles
 aioshutil
 anytree
